@@ -38,7 +38,7 @@
 - Figma
 - UI/UX
 
-## 📊 Database:
+## 📊 Data-base:
 
 - DB2
 - MongoDB
@@ -52,7 +52,7 @@
 
 #  ⌛️ Notable Experience
 
-- Succesfully developed creative strategies working with clients in reducing costs while maintaining high quality
+- Successfully developed creative strategies working with clients in reducing costs while maintaining high quality
 
 - Effectively overcome personal and organizational blocks to achieve results developing a MVP (Minimum Viable Product) project using (React.JS, Styled-Components, MongoDB)
 
@@ -70,7 +70,7 @@
 
 > _Displays a strong personal commitment to successfully completing all projects, improving website functionality, processing speed and increased system resilience by 79%._
 
-### ✅ _Key Responsabilities:_
+### ✅ _Key Responsibilities:_
 
 - Display an ability to learn rapidly and adapt quickly to changing situations maintaining newly developed and legacy systems business-critical progressive web application applying knowledge of React, Styled-Components
 
@@ -88,11 +88,11 @@
 
 - Delivered a high-impact presentation for 5-7 key investors that contributed to landing critical seed funding
 
-- Coordinate with Backend, and product teams on best approaches to create new, maintainable, and reusable cross-product features. As a result 3 major products updates have been completed on time and on budget.
+- Coordinate with Backend, and product teams on best approaches to create new, maintainable, and reusable cross-product features. As a result, 3 major products updates have been completed on time and on budget.
 
 ---
 
-## Interproj Servicos de Projetos - São Paulo, Brazil - ( August 2005 - April 2017)
+## Interproj Serviços de Projetos - São Paulo, Brazil - (August 2005 - April 2017)
 
 ### **MAINFRAME DEVELOPER**
 
@@ -102,7 +102,7 @@
 
 > _Co-owned of Interproj consulting ﬁrm, demonstrated a high level of expertise setting-up all operations, hired third-party contractors, effectively handle multiple projects and secured ~10+ major clients annually including banks and financial institutions. Closed out the business successfully after relocating to the US _
 
-### ✅ _Key Responsabilities:_
+### ✅ _Key Responsibilities:_
 
 - Reviewed and evaluated 30-40 legal and regulatory documents per week and made the decision to either filed or pass to the legal team for further revisions to compliance with laws and regulations.
 
@@ -124,7 +124,7 @@
 
 ---
 
-## Orion ZL Consulting Ltda - São Paulo,Brazil - (July 2002 - March 2004)
+## Orion ZL Consulting Ltd. - São Paulo, Brazil - (July 2002 - March 2004)
 
 ### _ASSISTANT EXECUTIVE DIRECTOR_
 
@@ -136,7 +136,7 @@
 
 > _Promoted to Project Manager, coordinating and performing work under general direction from the IT Manager in-line with Executive Director_
 
-### ✅ _Key Responsabilities:_
+### ✅ _Key Responsibilities:_
 
 - Made a substantial contribution to the continued operation and growth of the organization managing ~100 employees, directly supervising ~10 managers
 
@@ -150,7 +150,7 @@
 
 - Solved internal business challenges, reducing project costs by 27% by employing young but talented interns without negatively aﬀecting the overall quality of the project
 
-- Effectively maintained leadership in a group enviroment navigating the audit compliance process, achieving 100% of requirements for ISO9001 and CMM certifications
+- Effectively maintained leadership in a group environment navigating the audit compliance process, achieving 100% of requirements for ISO9001 and CMM certifications
 
 ---
 
@@ -167,3 +167,4 @@
 > ### _Diploma_ with emphasis in Technology | _Colegio Kennedy_, School of Technology, São Paulo, Brazil
 
 > ### Certified Web Developer | Udemy
+![image](https://user-images.githubusercontent.com/43652028/130491694-56e5f967-5d3c-4596-bb2e-a215ad4667ab.png)
