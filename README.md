@@ -166,5 +166,3 @@
 
 > ### _Diploma_ with emphasis in Technology | _Colegio Kennedy_, School of Technology, São Paulo, Brazil
 
-> ### Certified Web Developer | Udemy
-![image](https://user-images.githubusercontent.com/43652028/130491694-56e5f967-5d3c-4596-bb2e-a215ad4667ab.png)
