@@ -6,46 +6,56 @@
 
 ## 👩🏻‍💻 About Me
 
-> I'm a Frontend Web Developer and accomplished Manager with 15+ years of experience working with high-profile companies while meeting aggressive deadlines for complex projects. Attuned to the latest technologies, UI/UX methodologies, and agile processes. Possesses demonstrated experience using industry-standard tools and a deep knowledge of research methodologies. Thrives in a collaborative development environment with lead architects and backend teams.
+> Results-oriented frontend web developer with over 15 years of broad technical experience and over 2 years experience with frontend development in production environments. Technical background ranging from COBOL DB2 application development to leading development teams and engineers through complex projects. Hands-on frontend web development experience using HTML5, CSS3, JavaScript and React. A natural leader, driven and curious, who thrives in a collaborative environment working with technical and non-technical resources alike. Seeking an opportunity in Frontend development to showcase and develop my skills with React.JS, TypeScript, styled components, and Flex/Grid.
 
 ---
 
 ## 💻 Technical Skills
 
-- JavaScript (ES5, ES6)
-- Node.js
-- HTML
-- CSS / SCSS / LESS (Flex, Grid)
-- Cobol
-- JCL
-- CICS
-
-## ⚛️ Frameworks / Libraries / Tools:
-
+# Front-End Development
+- HTML5
+- CSS3 / SCSS / LESS (Flex, Grid)
 - React
 - Next.js
 - Gatsby.js
 - Webpack
+- npm
+
+
+## ⚛️ Languages:
+- JavaScript (ES5, ES6)
+- Cobol
+
+## 📊 Data-base:
+- DB2
+- MongoDB
+
+## UI Frameworks
 - Material UI
 - Styled-Components
 - Bootstrap
-- npm
-- babel
+
+## Prototype/Wireframe
+- Proto.io
+- Sketch
+- XD
+
+## Cloud Stack
 - Netlify
 - Heroku
 - AWS Amplify
 - Postman
+
+
+
+
+## Design
 - Figma
-- UI/UX
-
-## 📊 Data-base:
-
-- DB2
-- MongoDB
+- Illustrator
 
 ## 🤖 Version Control:
-
 - Git
+- BitBucket
 
 
 ---
