@@ -1,70 +1,87 @@
-# Cassia Melvin - Frontend Engineer 
-## Cary - North Carolina
+# Cassia Melvin - Frontend Developer
 
+## Cary - North Carolina
 
 [Email](mailto:cassiamelvin@gmail.com) | [Website](https://www.cassiamelvin.com) | [GitHub](https://github.com/ccmelvin)
 
 ## 👩🏻‍💻 About Me
 
-> Results-oriented frontend web developer with over 15 years of broad technical experience and over 2 years experience with frontend development in production environments. Technical background ranging from COBOL DB2 application development to leading development teams and engineers through complex projects. Hands-on frontend web development experience using HTML5, CSS3, JavaScript and React. A natural leader, driven and curious, who thrives in a collaborative environment working with technical and non-technical resources alike. Seeking an opportunity in Frontend development to showcase and develop my skills with React.JS, TypeScript, styled components, and Flex/Grid.
+> Results-oriented frontend web developer with over 15 years of broad technical experience and over 2 years experience with frontend development in production environments. Technical background ranging from COBOL, and DB2 application development to leading development teams and engineers through complex projects. Works across business functions, with a great deal of experience working with enterprise IT and communications teams. Hands-on frontend web development experience using HTML5, CSS3, JavaScript and React. A natural leader, driven and curious, who thrives in a collaborative environment working with technical and non-technical resources alike. Seeking an opportunity in Frontend development to showcase and develop my skills with JavaScript, React.JS, TypeScript, and CSS(Flex/Grid).
 
 ---
 
 ## 💻 Technical Skills
 
-# Front-End Development
+### Front-End Web Development
+
 - HTML5
 - CSS3 / SCSS / LESS (Flex, Grid)
-- React
+- React / Redux
 - Next.js
 - Gatsby.js
 - Webpack
 - npm
-
+- JSON
+- REST API
+- Postman
+- Wordpress
 
 ## ⚛️ Languages:
+
 - JavaScript (ES5, ES6)
 - Cobol
 
-## 📊 Data-base:
+## 📊 Database:
+
 - DB2
 - MongoDB
 
-## UI Frameworks
+## 🖼 UI Frameworks
+
 - Material UI
 - Styled-Components
 - Bootstrap
 
-## Prototype/Wireframe
+## ✂︎ Prototype/Wireframe
+
 - Proto.io
 - Sketch
 - XD
 
-## Cloud Stack
-- Netlify
-- Heroku
-- AWS Amplify
-- Postman
+## 🖌 Design
 
-
-
-
-## Design
 - Figma
 - Illustrator
 
-## 🤖 Version Control:
-- Git
-- BitBucket
+## ☁️ Cloud Stack
 
+- Netlify
+- Heroku
+- AWS (Amplify, Route53)
+
+## ⏰ Project Management
+
+- Agile
+- Scrum
+- Notion
+- Trello
+
+## 🤖 Version Control:
+
+- Git
+- CodeCommit
+
+## 🛠 Tools
+
+- Visual Studio Code
 
 ---
 
-#  ⌛️ Notable Experience
+# ⌛️ Project Experience
 
-- Successfully developed creative strategies working with clients in reducing costs while maintaining high quality
+## _Frontend Developer_
 
-- Effectively overcome personal and organizational blocks to achieve results developing a MVP (Minimum Viable Product) project using (React.JS, Styled-Components, MongoDB)
+- Effectively overcome personal and organizational blocks to achieve results developing a MVP (Minimum Viable Product) project using (React.JS, Styled-Components, MongoDB) for a startup company
 
 - Developed the skills needed to maintain the highest standards of professional excellence analyzing, designing and coding Mainframe Applications using (COBOL, CICS, DB2, JCL, PL/I, TSO/ISPF)
 
@@ -72,7 +89,19 @@
 
 # 👩🏻‍💻 Professional Experience
 
-## Freelance - Cary, NC - (May 2019 – Present)
+## SwiftyParty - Cary,NC - (November 2020 - present)
+
+- Research, Designed and built e-commerce site using HTML,CSS, React
+
+- Maintained source code usign AWS CodeCommit and delivered project using Scrum framework and agile
+
+- Influenced critical business decisions around search engine optimization, accessibility, and create intuitive user interface through the use of space,typography, images, colors and icons
+
+- Worked with platform team, integrated front end components with backend MEAN stack
+
+- Met with key stakeholders to gather requirements, participate in sprint demos, and incorporate feedback as part of continuous development process
+
+## Freelance - Cary, NC - (May 2019 – November 2020)
 
 ## _Frontend Developer_
 
@@ -84,15 +113,15 @@
 
 - Display an ability to learn rapidly and adapt quickly to changing situations maintaining newly developed and legacy systems business-critical progressive web application applying knowledge of React, Styled-Components
 
-- Recognize opportunities along with a team, to determine the structure and design of landing pages to ensure responsiveness
+- Continuous skill development focused on web usability, API design, frontend best practices, SEO while insisting on the highest standards.
 
 - Make a substantial contribution to the continued operation and growth of the organization by building reusable components using scalable CSS frameworks such as styled-components, material-UI, and materialize for future use
 
 - Balanced requirements, UI/UX, and deadlines in order to get most of the business value in a limited time framed
 
-- Achieves result when confronted with major responsibilities and limited resources leveraging skills in HTML, CSS, JavaScript, to create an e-commerce site, set to launch in the coming year
+- Achieves result when confronted with major responsibilities and limited resources leveraging skills in HTML, CSS, JavaScript, to create an e-commerce site
 
-- Architect and construct new features, as well as update and maintain existing features on front-end products across viewport
+- Built responsive single page web application
 
 ### 💰 _Key Achievements:_
 
@@ -106,11 +135,11 @@
 
 ### **MAINFRAME DEVELOPER**
 
-### **OPERATIONS MANAGER**
+### **PROJECT MANAGER**
 
 ### _Outline:_
 
-> _Co-owned of Interproj consulting ﬁrm, demonstrated a high level of expertise setting-up all operations, hired third-party contractors, effectively handle multiple projects and secured ~10+ major clients annually including banks and financial institutions. Closed out the business successfully after relocating to the US _
+> _Co-owned of Interproj consulting ﬁrm, demonstrated a high level of expertise setting-up all operations, hired third-party contractors, effectively handle multiple projects and secured ~10+ major clients annually including banks and financial institutions. Closed out the business successfully after relocating to the US_
 
 ### ✅ _Key Responsibilities:_
 
@@ -156,7 +185,7 @@
 
 - Maintained accurate documentation, created project reports, and developed high-quality presentations
 
-###  💰 _Key Achievements:_
+### 💰 _Key Achievements:_
 
 - Solved internal business challenges, reducing project costs by 27% by employing young but talented interns without negatively aﬀecting the overall quality of the project
 
@@ -175,4 +204,3 @@
 > ### Pursued _Bachelor of Arts, BA_, Marketing | _Senac São Paulo_, São Paulo, Brazil
 
 > ### _Diploma_ with emphasis in Technology | _Colegio Kennedy_, School of Technology, São Paulo, Brazil
-
